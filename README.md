@@ -50,7 +50,7 @@ Quickest way to deploy this repo -
 
 ### How To Contribute - 
 
-Chetan would be very happy to review your PRs on his Github and all the awesome things that can br improved on this portfolio template.
+Chetan would be very happy to review your PRs on his Github and all the awesome things that can be improved on this portfolio template.
 
 
 ### Tech Stack Used - 
