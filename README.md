@@ -50,7 +50,7 @@ Quickest way to deploy this repo -
 
 ### How To Contribute - 
 
-Chetan would be very happy to review your PRs on his Github and all the awesome things that can br improved on this portfolio template.
+Chetan would be very happy to review your PRs on his Github and all the awesome things that can be improved on this portfolio template.
 
 
 ### Tech Stack Used - 
@@ -65,6 +65,8 @@ Great portfolio template by Chetan.
 
 ## Supporting
 Many hours of hard work have gone into this project. Your support will be very appreciated!
+
+Buy Chetan a coffee:
 
 [!["Buy Chetan A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
 
