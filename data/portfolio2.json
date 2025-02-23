@@ -1,0 +1,91 @@
+{
+  "name": "Philip",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Philip Leblanc",
+  "headerTaglineThree": " from Surrey, Canada.",
+  "showBlog": true,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/philip-L"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/philip-leblanc-7692a5aa"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:philip.leblan@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Finviz and Yahoo Finance API",
+      "description": "Stock portfolio analyis",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "2",
+      "title": "VHDL parser",
+      "description": "C/C++",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "3",
+      "title": "SubAvenue",
+      "description": "SQL queries",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "4",
+      "title": "Social media marketing automation",
+      "description": "Marketing",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "5",
+      "title": "Smart light switch with ESP32 cam",
+      "description": "Design and development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "6",
+      "title": "Doubly linked-list and red-black tree",
+      "description": "Datastructures",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60"
+    }
+  ],
+  "aboutpara": "Harnessing a rich blend of theoretical knowledge from a Bachelor’s Degree in Computer Engineering and practical application, my role as a Product Developer at CopperTree Analytics honed my expertise in embedded devices and software construction. It was more than just about fulfilling requirements; it was about pushing the envelope of what was technically feasible to deliver quality features that resonate with users. In addition, the analytical rigor I cultivated as a Silicon Validation Engineer at Intel Corporation underpins my methodical approach to product development. My fluency in both English and French positions me uniquely within diverse teams, enabling us to craft solutions that are as versatile as they are robust, navigating the entire product lifecycle with precision and adaptability.",  
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product developer, and data analyst.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": [
+          "Worked on the frontend of a React application",
+          "Worked on the frontend of a React application"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "March 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": ["Worked on the frontend of a React application"]
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
